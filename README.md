@@ -37,6 +37,6 @@ I enjoy understanding how software works beneath the surface—from memory manag
 
 ## Let's connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/richard-magiday-aa28333aa/)
 - 🐙 [GitHub](https://github.com/richardmagiday-cell)
-
 
