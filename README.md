@@ -23,11 +23,6 @@ I enjoy understanding how software works beneath the surface—from memory manag
 - [Checksum](https://github.com/richardmagiday-cell/cis3360-pa01) — 8-, 16-, and 32-bit checksum implementation.
 - [Cipher Text](https://github.com/richardmagiday-cell/cis3360-pa02) — A C project exploring classical cryptography concepts.
 
-## GitHub stats
-
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardmagiday-cell&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardmagiday-cell&layout=compact&hide_border=true)
-
 ## Current interests
 
 - Low-level and systems programming
